@@ -2,7 +2,6 @@ module.exports = class Streak {
   constructor() {
     this.start = null;
     this.last = null;
-    this.current = null;
   }
 
   getStart() {
@@ -20,4 +19,4 @@ module.exports = class Streak {
   setEndDate(date) {
     this.last = date;
   }
-}
+};
