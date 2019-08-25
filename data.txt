@@ -105,6 +105,7 @@ Morning exercise,2019-08-21
 Waking up at 6 AM,2019-08-21
 Morning exercise,2019-08-22
 Morning exercise,2019-08-23
-No chocolade, no cookies,2019-08-23
+No chocolate, no cookies,2019-08-23
 Morning exercise,2019-08-24
 Writing in the gratitude journal,2019-08-24
+test,2019-08-24
